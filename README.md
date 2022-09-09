@@ -46,3 +46,11 @@ https://shop.spreadshirt.de/neonyzer
 Tier 3:  Spend money for our Gas Syndrom
 https://paypal.me/saschaflach
 
+### Know Bugs 
+After File 09-01 its starts with 0A-01. in all the tests it worked, but I can't guarantee anything
+
+## Upcoming features
+
+1. Web Dashboard
+2. Web Start
+3. Code tuning
