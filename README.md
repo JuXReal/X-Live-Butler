@@ -37,8 +37,11 @@ exec /home/xlive/mission-controll
 
 ### Folder meaning
 input              - The place for the X-Live Card Folders (Multitrack Files, 4 GB Chunks)
+
 output             - The cleand 4 GB Chunks splitt in seperate Tracks (NOT COMBINED)
+
 output/combined    - The glued single Tracks (this file use for your DAW)
+
 processed_original - The original Files (Backup) 
 
 the butler now starts his work. On your host system you will find the mission log. 
