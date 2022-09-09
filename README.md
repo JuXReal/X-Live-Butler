@@ -19,7 +19,7 @@ Please visit the official Docker Site https://docs.docker.com/get-docker/
 
 ## 1. Open Powershell or the Shell on your current system 
 
-## 2. Command:   docker run -it -v E:/XLive:/tmp/Xlive xlive-butler bash
+## 2. Command:   docker run -it -v E:/XLiveTest:/tmp/Xlive juxreal/xlive-butler bash
 
 notes:  "E:/Xlive": - Replace with your Host system Folder. The folder on your computer where the data is to be distributed.
 
