@@ -33,7 +33,13 @@ note: This folder was created on the host when it was first started. (example: E
 
 exec /home/xlive/mission-controll 
 
-## Wait... 
+## Wait...
+
+### Folder meaning
+input              - The place for the X-Live Card Folders (Multitrack Files, 4 GB Chunks)
+output             - The cleand 4 GB Chunks splitt in seperate Tracks (NOT COMBINED)
+output/combined    - The glued single Tracks (this file use for your DAW)
+processed_original - The original Files (Backup) 
 
 the butler now starts his work. On your host system you will find the mission log. 
 When the input folder is empty, you are done. 
