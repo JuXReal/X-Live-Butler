@@ -17,17 +17,17 @@ Please visit the official Docker Site https://docs.docker.com/get-docker/
 
 ## Okay, let's let the butler off the leash.
 
-### 1. Open Powershell or the Shell on your current system 
+## 1. Open Powershell or the Shell on your current system 
 
-### 2. Command:   docker run -it -v E:/XLive:/tmp/Xlive xlive-butler bash
+## 2. Command:   docker run -it -v E:/XLive:/tmp/Xlive xlive-butler bash
 
 notes:  "E:/Xlive": - Replace with your Host system Folder. The folder on your computer where the data is to be distributed.
 
-### 3. Copy the hole Folder/Folders !!!  (Something like: "5524153A") to the "Input" Folder 
+## 3. Copy the hole Folder/Folders !!!  (Something like: "5524153A") to the "Input" Folder 
 
 note: This folder was created on the host when it was first started. (example: E:/Xlive/input)
 
-### 4. Start the Butler  - on the Powershell Console from the Docker Container (something like: root@b4c2a8b7e06a:/# ) by typing: 
+## 4. Start the Butler  - on the Powershell Console from the Docker Container (something like: root@b4c2a8b7e06a:/# ) by typing: 
 
 exec /home/xlive/mission-controll 
 
