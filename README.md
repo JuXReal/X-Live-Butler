@@ -34,6 +34,9 @@ note: This folder was created on the host when it was first started. (example: E
 exec /home/xlive/mission-controll 
 
 ## Wait...
+the butler now starts his work. On your host system you will find the mission log. 
+When the input folder is empty, you are done. 
+In the meantime, you can support my work. 
 
 ### Folder meaning
 input              - The place for the X-Live Card Folders (Multitrack Files, 4 GB Chunks)
@@ -44,9 +47,7 @@ output/combined    - The glued single Tracks (this file use for your DAW)
 
 processed_original - The original Files (Backup) 
 
-the butler now starts his work. On your host system you will find the mission log. 
-When the input folder is empty, you are done. 
-In the meantime, you can support my work. 
+
 
 ### Support the work 
 
