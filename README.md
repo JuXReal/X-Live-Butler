@@ -25,11 +25,9 @@ notes:  "E:/Xlive": - Replace with your Host system Folder. The folder on your c
 
 3. Create a folder called "input" (small letters) in the Host folder.
 
-4. Copy the hole Folder/Folders !!!  (Something like: "5524153A") to the "Input" Folder 
+4. Copy _entire_ Folder(s) (i.e. 5524153A) to the "Input" Folder (Create during Container launch)
 
-note: This folder was created on the host when it was first started. (example: E:/Xlive/input)
-
-5. Start the Butler  - on the Powershell Console from the Docker Container (something like: root@b4c2a8b7e06a:/# ) by typing: 
+5. Start XLive Butler at your console from the Docker Container (something like: root@b4c2a8b7e06a:/# ) by typing: 
 
 exec /home/xlive/mission-controll 
 
